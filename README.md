@@ -16,6 +16,6 @@ Bye!
 Some languages from my profile in general
 <div>
   <a href="https://github.com/William-Ferreira665">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipeveracruz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src=""https://github-readme-stats.vercel.app/api/top-langs/?username=William-Ferreira665&layout=compact&langs_count=7&theme=vision-friendly-dark""/>
 </div>
 
