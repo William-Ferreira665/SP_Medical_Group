@@ -7,7 +7,7 @@ Projeto do curso de Desenvolvimento de Sistemas do SENAI Informática. A SP Medi
   - Marcar consultas com facilidade e praticidade
 
 # Authors
-* **Luiz Felipe Vera Cruz**: @luizfelipeveracruz (https://github.com/luizfelipeveracruz)
+* **Luiz Felipe Vera Cruz**: @fwilliamnunes (https://github.com/William-Ferreira665)
 
 Thanks to visiting me and good coding!
 
